@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <!-- site metas -->
-    <title>Gravitao</title>
+    <title>Oishee</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -20,7 +20,7 @@
     <!-- Responsive-->
     <link rel="stylesheet" href="{{asset('assets/css/responsive.css')}}">
     <!-- fevicon -->
-    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+    <link rel="icon" href="{{asset('assets/images/fevicon.png')}}" type="image/gif" />
     <!-- Scrollbar Custom CSS -->
     <link rel="stylesheet" href="{{asset('assets/css/jquery.mCustomScrollbar.min.css')}}">
     <!-- Tweaks for older IEs-->
@@ -35,8 +35,16 @@
 <div class="header_section">
     <div class="container">
         <div class="row">
+            <div class="col-md-6">
+                <div class="logo"><a href="index.html"><img src="{{asset('assets/images/oishi.jfif')}}"style="width: 40px;height: auto"></a></div>
+            </div>
+            <div class="col-md-6" style="text-align: right">
+                <h1>Login</h1>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-md-3">
-                <div class="logo"><a href="index.html"><img src="{{asset('assets/images/oishi.jfif')}}"></a></div>
+                {{--<div class="logo"><a href="index.html"><img src="{{asset('assets/images/oishi.jfif')}}"style="width: 40px;height: auto"></a></div>--}}
             </div>
             <div class="col-md-9">
                 <div class="menu_text">
@@ -47,7 +55,7 @@
                         <li><a href="projects.html">VISA & IMMEGERATION</a></li>
                         <li><a href="contact.html">CONTACT US</a></li>
                         <li><a href="clients.html">CLIENTS</a></li>
-                        <li><a href="#"><img src="{{asset('assets/images/search-icon.png')}}"></a></li>
+
                         <div id="myNav" class="overlay">
                             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
                             <div class="overlay-content">
@@ -59,7 +67,7 @@
                                 <a href="client.html">CLIENTS</a>
                             </div>
                         </div>
-                        <span  style="font-size:33px;cursor:pointer; color: #ffffff;" onclick="openNav()"><img src="{{asset('assets/images/toggle.png')}}" class="toggle_menu"></span>
+                     <div>  <span  style="font-size:33px;cursor:pointer; color: #ffffff;" onclick="openNav()"><img src="{{asset('assets/images/toggle.png')}}" class="toggle_menu"></span>
                 </div>
                 </li>
                 </ul>
