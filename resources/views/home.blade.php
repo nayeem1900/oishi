@@ -8,25 +8,25 @@
         <div class="row align-items-center">
             <div class="col-lg-3 col-md-6">
                 <div class="fact-item">
-                    <img src="img/icon-4.png" alt="Icon">
+                    <img src="{{asset('components/img/montigo.jpeg')}}" alt="Icon">
                     <h2>Qualified Team</h2>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="fact-item">
-                    <img src="img/icon-1.png" alt="Icon">
+                    <img src="{{asset('components/img/sweden.jpeg')}}" alt="Icon">
                     <h2>Individual Approach</h2>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="fact-item">
-                    <img src="img/icon-8.png" alt="Icon">
+                    <img src="{{asset('components/img/portugal.jpeg')}}" alt="Icon">
                     <h2>100% Success</h2>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="fact-item">
-                    <img src="img/icon-6.png" alt="Icon">
+                    <img src="{{asset('components/img/romaina.jpeg')}}" alt="Icon">
                     <h2>100% Satisfaction</h2>
                 </div>
             </div>
@@ -43,24 +43,24 @@
             <div class="col-md-6">
                 <div class="about-img">
                     <div class="about-img-1">
-                        <img src="img/about-2.jpg" alt="Image">
+                        <img src="{{asset('components/img/about-2.jpg')}}" alt="Image">
                     </div>
                     <div class="about-img-2">
-                        <img src="img/about-1.jpg" alt="Image">
+                        <img src="{{('components/img/about-1.jpg')}}" alt="Image">
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="section-header">
                     <p>Learn About Us</p>
-                    <h2>25 Years Experience</h2>
+                    <h2>Who We Are</h2>
                 </div>
                 <div class="about-text">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                    At OISHEE GROUP, we are dedicated to bridging the gap between skilled workers and international opportunities. As a premier manpower export consulting firm, we specialize in providing comprehensive solutions to meet the labor needs of businesses worldwide.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
+                    To empower individuals by connecting them with global employment opportunities while helping companies fill critical labor shortages with qualified and reliable personnel.
                     </p>
                     <a class="btn" href="">Learn More</a>
                 </div>
@@ -82,27 +82,18 @@
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
                     <img src="{{asset('components/img/icon-1.png')}}" alt="Icon">
-                    <h3>Business Strategy</h3>
+                    <h3>Work Permit</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
                     </p>
                     <a href="">Read More</a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="service-item">
-                    <img src="{{asset('components/img/icon-2.png')}}" alt="Icon">
-                    <h3>Project Management</h3>
-                    <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
-                    </p>
-                    <a href="">Read More</a>
-                </div>
-            </div>
+            
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
                     <img src="{{asset('components/img/icon-3.png')}}" alt="Icon">
-                    <h3>Market Research</h3>
+                    <h3>Construction</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
                     </p>
@@ -112,7 +103,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
                     <img src="{{asset('components/img/icon-4.png')}}" alt="Icon">
-                    <h3>Human Resource</h3>
+                    <h3>Welding</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
                     </p>
@@ -122,7 +113,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
                     <img src="{{asset('components/img/icon-5.png')}}" alt="Icon">
-                    <h3>Online Business</h3>
+                    <h3>Germents</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
                     </p>
@@ -132,33 +123,15 @@
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
                     <img src="{{asset('components/img/icon-6.png')}}" alt="Icon">
-                    <h3>Capital Management</h3>
+                    <h3>Cleaner</h3>
                     <p>
                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
                     </p>
                     <a href="">Read More</a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="service-item">
-                    <img src="{{asset('components/img/icon-7.png')}}" alt="Icon">
-                    <h3>Business Insurance</h3>
-                    <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
-                    </p>
-                    <a href="">Read More</a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="service-item">
-                    <img src="{{asset('components/img/icon-8.png')}}" alt="Icon">
-                    <h3>Online Marketing</h3>
-                    <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
-                    </p>
-                    <a href="">Read More</a>
-                </div>
-            </div>
+           
+            
         </div>
     </div>
 </div>
