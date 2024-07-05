@@ -687,7 +687,7 @@ a:focus {
 }
 
 .service .service-item img {
-    max-height: 50px;
+    max-height: 150px;
     margin-bottom: 20px;
 }
 
@@ -918,9 +918,9 @@ a:focus {
 
 .testimonial .testimonial-item img {
     position: relative;
-    width: 80px;
-    border-radius: 80px;
-    margin-bottom: 15px;
+    width: 200px;
+    border-radius: 200px;
+    margin-bottom: 30px;
 }
 
 .testimonial .testimonial-item p {

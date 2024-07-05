@@ -2,8 +2,41 @@
 <!-- Video Modal End -->
 @section('content')
 
+    <!-- Blog Start -->
+    <div class="blog">
+        <div class="container">
+            <div class="section-header">
+                <p></p>
+                <h2>For Immigration & Visa </h2>
+            </div>
+            <div class="owl-carousel blog-carousel">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="{{asset('components/img/greece.jfif')}}" alt="Blog">
+                    </div>
+
+                </div>
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="{{asset('components/img/poland.jfif')}}" alt="Blog">
+                    </div>
+                    <p> </p>
+                </div>
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="{{asset('components/img/paragua.jfif')}}" alt="Blog">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Blog End -->
+
+
+
 <!-- Fact Start -->
-<div class="fact">
+{{--<div class="fact">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-3 col-md-6">
@@ -32,7 +65,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>--}}
 <!-- Fact Start -->
 
 
@@ -43,10 +76,10 @@
             <div class="col-md-6">
                 <div class="about-img">
                     <div class="about-img-1">
-                        <img src="{{asset('components/img/about-2.jpg')}}" alt="Image">
+                        <img src="{{asset('components/img/passenger.jpg')}}" alt="Image">
                     </div>
                     <div class="about-img-2">
-                        <img src="{{('components/img/about-1.jpg')}}" alt="Image">
+                        <img src="{{('components/img/passenger1.jpeg')}}" alt="Image">
                     </div>
                 </div>
             </div>
@@ -75,59 +108,59 @@
 <div class="service">
     <div class="container">
         <div class="section-header">
-            <p>Consulting Services</p>
+
             <h2>Our Best Consulting Services</h2>
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
-                    <img src="{{asset('components/img/icon-1.png')}}" alt="Icon">
+                    <img src="{{asset('components/img/work_p.png')}}" alt="Icon">
                     <h3>Work Permit</h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
+
                     </p>
-                    <a href="">Read More</a>
+                    <a href=""></a>
                 </div>
             </div>
             
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
-                    <img src="{{asset('components/img/icon-3.png')}}" alt="Icon">
+                    <img src="{{asset('components/img/construction.png')}}" alt="Icon">
                     <h3>Construction</h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
+
                     </p>
-                    <a href="">Read More</a>
+                    <a href=""></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
-                    <img src="{{asset('components/img/icon-4.png')}}" alt="Icon">
+                    <img src="{{asset('components/img/welding.jpeg')}}" alt="Icon">
                     <h3>Welding</h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
+
                     </p>
-                    <a href="">Read More</a>
+                    <a href=""></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
-                    <img src="{{asset('components/img/icon-5.png')}}" alt="Icon">
+                    <img src="{{asset('components/img/germents.jfif')}}" alt="Icon">
                     <h3>Germents</h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
+
                     </p>
-                    <a href="">Read More</a>
+                    <a href=""></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="service-item">
-                    <img src="{{asset('components/img/icon-6.png')}}" alt="Icon">
+                    <img src="{{asset('components/img/cleaner.jfif')}}" alt="Icon">
                     <h3>Cleaner</h3>
                     <p>
-                        Lorem ipsum dolor sit amet elit. Phasellus nec pretium ornare velit non
+
                     </p>
-                    <a href="">Read More</a>
+                    <a href=""></a>
                 </div>
             </div>
            
@@ -144,7 +177,7 @@
         <div class="row align-items-end">
             <div class="col-md-6">
                 <div class="feature-img">
-                    <img src="{{asset('components/img/business-man.png')}}" alt="Image">
+                    <img src="{{asset('components/img/immegration.jfif')}}" alt="Image">
                 </div>
             </div>
             <div class="col-md-6">
@@ -196,7 +229,7 @@
 <div class="testimonial">
     <div class="container">
         <div class="section-header">
-            <p>Visa World Wide Information</p>
+
             <h2>Service We Provide</h2>
         </div>
         <div class="owl-carousel testimonials-carousel">
@@ -242,7 +275,7 @@
 <div class="team">
     <div class="container">
         <div class="section-header">
-            <p>Meet Our Experties</p>
+
             <h2>For Immigration</h2>
 
         </div>
@@ -325,7 +358,7 @@
 <div class="contact">
     <div class="container">
         <div class="section-header">
-            <p>Get In Touch</p>
+
             <h2>Get In Touch For Any Query</h2>
         </div>
         <div class="row align-items-center">
@@ -336,7 +369,11 @@
                     </div>
                     <div class="contact-text">
                         <h3>Our Head Office</h3>
-                        <p>Gulshan, Dhaka</p>
+                        <p>Flat NO : 101
+                            House NO : 14 (Ground Floor)
+                            Road NO : 6
+                            Gulshan - 1
+                        </p>
                     </div>
                 </div>
                 <div class="contact-info">
@@ -344,8 +381,8 @@
                         <i class="fa fa-phone-alt"></i>
                     </div>
                     <div class="contact-text">
-                        <h3>Call for Help</h3>
-                        <p>+012 345 6789</p>
+                        <h3>Contact NO</h3>
+                        <p>01970574700</p>
                     </div>
                 </div>
                 <div class="contact-info">
@@ -359,6 +396,11 @@
                 </div>
             </div>
             <div class="col-md-7">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d29209.28848890149!2d90.3961979197541!3d23.77727833368789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sFlat%20NO%20%3A%20101%20House%20NO%20%3A%2014%20(Ground%20Floor)%20Road%20NO%20%3A%206%20Gulshan%20-%201!5e0!3m2!1sen!2sbd!4v1720208240879!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+
+            {{--<div class="col-md-7">
                 <div class="contact-form">
                     <div id="success"></div>
                     <form name="sentMessage" id="contactForm" novalidate="novalidate">
@@ -383,90 +425,14 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            </div>--}}
         </div>
     </div>
 </div>
 <!-- Contact End -->
 
 
-<!-- Blog Start -->
-<div class="blog">
-    <div class="container">
-        <div class="section-header">
-            <p>Choose Your Countrys</p>
-            <h2>For Immigration</h2>
-        </div>
-        <div class="owl-carousel blog-carousel">
-            <div class="blog-item">
-                <div class="blog-img">
-                    <img src="{{asset('components/img/greece.jfif')}}" alt="Blog">
-                </div>
-                <div class="blog-content">
-                    <h2 class="blog-title">GENERAL INFORMATION ON ENTRY VISAS</h2>
-                    <div class="blog-meta">
-                        <i class="fa fa-list-alt"></i>
-                        <a href="">Greece</a>
-                        <i class="fa fa-calendar-alt"></i>
-                        <p>Depending on the duration and purpose of your journey to Greece, you may apply for a short-term “Schengen visa” or a long-term “national visa” for a stay of longer than 90 days.</p>
-                    </div>
-                    <div class="blog-text">
-                        <p>
-                            Kindly note that, the applications for Greek Visas must be submitted through the Global Visa Center World Offices.
-                        </p>
-                        <a class="btn" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="blog-img">
-                    <img src="{{asset('components/img/poland.jfif')}}" alt="Blog">
-                </div>
-                <div class="blog-content">
-                    <h2 class="blog-title">Required Documents for Poland Schengen Visa</h2>
-                    <div class="blog-meta">
-                        <i class="fa fa-list-alt"></i>
-                        <a href="">Documents for a Polish Schengen visa application must be filled in using Roman capital letters and either completed or translated into English or Polish.</a>
-                        <i class="fa fa-calendar-alt"></i>
-                        <p>Valid passport
-                            Passport-sized photos
-                            Completed application form
-                        </p>
-                    </div>
-                    <div class="blog-text">
-                        <p>
-                            Schengen Visa with limited territorial validity is valid in the territory of one or more Schengen Area Member States, but not in all the Schengen Area Member States and permits its holder to remain in their territories for a maximum of 90 days during a 180-day period.
-                        </p>
-                        <a class="btn" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="blog-img">
-                    <img src="{{asset('components/img/paragua.jfif')}}" alt="Blog">
-                </div>
-                <div class="blog-content">
-                    <h2 class="blog-title"></h2>
-                    <div class="blog-meta">
-                        <i class="fa fa-list-alt"></i>
-                        <a href="">The requirements to obtain the ARRIVAL VISAS are:</a>
-                        <i class="fa fa-calendar-alt"></i>
-                        <p>1. Valid passport.
 
-                            2. CASH payment of US $ 160.00 of the corresponding tariff.</p>
-                    </div>
-                    <div class="blog-text">
-                        <p>
-                            The ARRIVAL VISAS of category Non-Resident Visa will be granted at the Silvio Pettirossi International Airport in Asunción, Paraguay. They will have a duration of ten (10) years.
-                        </p>
-                        <a class="btn" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Blog End -->
 
 
 <!-- Footer Start -->

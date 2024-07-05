@@ -8,11 +8,11 @@
                         <h2>8:00 - 10:00</h2>
                         <p>Sat - Thu</p>
                     </div>
-                    <div class="text">
+                   {{-- <div class="text">
                         <i class="fa fa-phone-alt"></i>
                         <h2>01818811220</h2>
                         <p>For Appointment</p>
-                    </div>
+                    </div>--}}
                 </div>
             </div>
             <div class="col-md-4">
