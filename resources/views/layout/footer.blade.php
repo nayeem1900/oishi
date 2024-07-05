@@ -18,7 +18,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                   {{-- <div class="col-md-6">
                         <div class="footer-link">
                             <h2>Quick Links</h2>
                             <a href="">Terms of use</a>
@@ -27,10 +27,10 @@
                             <a href="">Help</a>
                             <a href="">FQAs</a>
                         </div>
-                    </div>
+                    </div>--}}
                 </div>
             </div>
-            <div class="col-lg-5">
+          <{{--div class="col-lg-5">
                 <div class="footer-newsletter">
                     <h2>Newsletter</h2>
                     <p>
@@ -41,16 +41,16 @@
                         <button class="btn">Submit</button>
                     </div>
                 </div>
-            </div>
+            </div>--}}
         </div>
     </div>
     <div class="container copyright">
         <div class="row">
             <div class="col-md-6">
-                <p>&copy; <a href="#">Oishee Group </a>, All Right Reserved.</p>
+                <p>&copy; <a href="#">Oishe Group </a>, All Right Reserved.</p>
             </div>
             <div class="col-md-6">
-                <p>Designed By <a href="https://htmlcodex.com">Nayeem</a></p>
+                <p>Designed By <a href="https://www.facebook.com/nayeembd84">Nayeem</a></p>
             </div>
         </div>
     </div>

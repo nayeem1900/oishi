@@ -57,10 +57,10 @@
                 </div>
                 <div class="about-text">
                     <p>
-                    At OISHEE GROUP, we are dedicated to bridging the gap between skilled workers and international opportunities. As a premier manpower export consulting firm, we specialize in providing comprehensive solutions to meet the labor needs of businesses worldwide.
+                    At OISHE GROUP, we are dedicated to bridging the gap between skilled workers and international opportunities. As a premier manpower export consulting firm, we specialize in providing comprehensive solutions to meet the labor needs of businesses worldwide.
                     </p>
                     <p>
-                    To empower individuals by connecting them with global employment opportunities while helping companies fill critical labor shortages with qualified and reliable personnel.
+                        Experience and successful Senior Consultant provide higher education, immigration, medical tourism. Our senior consultants are having 15-20 years experience in this field. Our consultants have travelled your dream destinations and they have visited your dream destination’s countries, school, colleges & universities. They saw all the facilities & the opportunities. Our consultants know how to put you right places. Some of our consultants studied from abroad & trained as certified consultant. We have internationally certified experience lawyer for immigration service. Once you have decided that you are comfortable with our assessment, we will provide you with a complete breakdown of all services from beginning to end.
                     </p>
                     <a class="btn" href="">Learn More</a>
                 </div>
@@ -149,39 +149,39 @@
             </div>
             <div class="col-md-6">
                 <div class="section-header">
-                    <p>Our Feature</p>
+
                     <h2>Why Choose Us?</h2>
                 </div>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus
+                    At OISHE GLOBAL, our primary mission is to serve as your beacon during your transformative journey to abroad. With a decade of industry expertise, we simplify intricate immigration procedures. Our diverse team of seasoned lawyers from varied backgrounds is deeply committed to the success of your application. We pledge to deliver timely, clear, and reliable services, uniquely tailored to your needs. With each step, a dedicated expert will provide invaluable guidance. More than just ensuring successful applications, our goal is to nurture enduring bonds. As a testament to this, our connection endures even after your smooth transition to your new residence.
                 </p>
                 <div class="row counters">
                     <div class="col-6">
                         <i class="fa fa-user"></i>
                         <div class="counters-text">
                             <h2 data-toggle="counter-up">100</h2>
-                            <p>Our Staffs</p>
+                            <p>Foreign passengers</p>
                         </div>
                     </div>
                     <div class="col-6">
                         <i class="fa fa-users"></i>
                         <div class="counters-text">
-                            <h2 data-toggle="counter-up">200</h2>
-                            <p>Our Clients</p>
+                            <h2 data-toggle="counter-up">20</h2>
+                            <p>Country skilled visa</p>
                         </div>
                     </div>
                     <div class="col-6">
                         <i class="fa fa-check"></i>
                         <div class="counters-text">
-                            <h2 data-toggle="counter-up">300</h2>
-                            <p>Completed Projects</p>
+                            <h2 data-toggle="counter-up">20</h2>
+                            <p>Student Visa</p>
                         </div>
                     </div>
                     <div class="col-6">
                         <i class="fa fa-running"></i>
                         <div class="counters-text">
                             <h2 data-toggle="counter-up">400</h2>
-                            <p>Running Projects</p>
+                            <p>Applicant Processing</p>
                         </div>
                     </div>
                 </div>
@@ -196,41 +196,41 @@
 <div class="testimonial">
     <div class="container">
         <div class="section-header">
-            <p>Testimonial Carousel</p>
-            <h2>100% Positive Customer Reviews</h2>
+            <p>Visa World Wide Information</p>
+            <h2>Service We Provide</h2>
         </div>
         <div class="owl-carousel testimonials-carousel">
             <div class="testimonial-item">
-                <img src="{{asset('components/img/testimonial-1.jpg')}}" alt="Image">
+                <img src="{{asset('components/img/schooling_visa.jfif')}}" alt="Image">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut mollis mauris. Vivamus egestas eleifend dui ac consequat
+
                 </p>
-                <h2>Client Name</h2>
-                <h3>Profession</h3>
+                <h2>Schooling Visa</h2>
+                <h3></h3>
             </div>
             <div class="testimonial-item">
-                <img src="{{asset('components/img/testimonial-2.jpg')}}" alt="Image">
+                <img src="{{asset('components/img/medical.jfif')}}" alt="Image">
                 <p>
-                    Phasellus pellentesque tempus pretium. Quisque in enim sit amet purus venenatis porttitor sed non velit. Vivamus vehicula finibus
+
                 </p>
-                <h2>Client Name</h2>
-                <h3>Profession</h3>
+                <h2>Medical Tourism</h2>
+                <h3></h3>
             </div>
             <div class="testimonial-item">
-                <img src="{{asset('components/img/testimonial-3.jpg')}}" alt="Image">
+                <img src="{{asset('components/img/tourist.jfif')}}" alt="Image">
                 <p>
-                    Sed in lectus eu eros tincidunt cursus. Aliquam eleifend velit nisl. Sed et posuere urna, ut vestibulum massa. Integer quis magna
+
                 </p>
-                <h2>Client Name</h2>
-                <h3>Profession</h3>
+                <h2>Business/Tourist Visa Consultancy</h2>
+                <h3></h3>
             </div>
             <div class="testimonial-item">
-                <img src="{{asset('components/img/testimonial-4.jpg')}}" alt="Image">
+                <img src="{{asset('components/img/worker.jfif')}}" alt="Image">
                 <p>
-                    Sed in lectus eu eros tincidunt cursus. Aliquam eleifend velit nisl. Sed et posuere urna, ut vestibulum massa. Integer quis magna
+
                 </p>
-                <h2>Client Name</h2>
-                <h3>Profession</h3>
+                <h2>Visa Consultancy</h2>
+                <h3></h3>
             </div>
         </div>
     </div>
@@ -242,8 +242,9 @@
 <div class="team">
     <div class="container">
         <div class="section-header">
-            <p>Meet Our Advisors</p>
-            <h2>Our Professional Consulting Team</h2>
+            <p>Meet Our Experties</p>
+            <h2>For Immigration</h2>
+
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -393,25 +394,25 @@
 <div class="blog">
     <div class="container">
         <div class="section-header">
-            <p>Consulting Blog</p>
-            <h2>Latest From Our Consulting Blog</h2>
+            <p>Choose Your Countrys</p>
+            <h2>For Immigration</h2>
         </div>
         <div class="owl-carousel blog-carousel">
             <div class="blog-item">
                 <div class="blog-img">
-                    <img src="{{asset('components/img/blog-1.jpg')}}" alt="Blog">
+                    <img src="{{asset('components/img/greece.jfif')}}" alt="Blog">
                 </div>
                 <div class="blog-content">
-                    <h2 class="blog-title">Lorem ipsum dolor sit amet</h2>
+                    <h2 class="blog-title">GENERAL INFORMATION ON ENTRY VISAS</h2>
                     <div class="blog-meta">
                         <i class="fa fa-list-alt"></i>
-                        <a href="">Category</a>
+                        <a href="">Greece</a>
                         <i class="fa fa-calendar-alt"></i>
-                        <p>01-Jan-2045</p>
+                        <p>Depending on the duration and purpose of your journey to Greece, you may apply for a short-term “Schengen visa” or a long-term “national visa” for a stay of longer than 90 days.</p>
                     </div>
                     <div class="blog-text">
                         <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum metus tortor. Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum metus tortor
+                            Kindly note that, the applications for Greek Visas must be submitted through the Global Visa Center World Offices.
                         </p>
                         <a class="btn" href="">Read More</a>
                     </div>
@@ -419,19 +420,22 @@
             </div>
             <div class="blog-item">
                 <div class="blog-img">
-                    <img src="{{asset('components/img/blog-2.jpg')}}" alt="Blog">
+                    <img src="{{asset('components/img/poland.jfif')}}" alt="Blog">
                 </div>
                 <div class="blog-content">
-                    <h2 class="blog-title">Lorem ipsum dolor sit amet</h2>
+                    <h2 class="blog-title">Required Documents for Poland Schengen Visa</h2>
                     <div class="blog-meta">
                         <i class="fa fa-list-alt"></i>
-                        <a href="">Category</a>
+                        <a href="">Documents for a Polish Schengen visa application must be filled in using Roman capital letters and either completed or translated into English or Polish.</a>
                         <i class="fa fa-calendar-alt"></i>
-                        <p>01-Jan-2045</p>
+                        <p>Valid passport
+                            Passport-sized photos
+                            Completed application form
+                        </p>
                     </div>
                     <div class="blog-text">
                         <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum metus tortor. Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum metus tortor
+                            Schengen Visa with limited territorial validity is valid in the territory of one or more Schengen Area Member States, but not in all the Schengen Area Member States and permits its holder to remain in their territories for a maximum of 90 days during a 180-day period.
                         </p>
                         <a class="btn" href="">Read More</a>
                     </div>
@@ -439,19 +443,21 @@
             </div>
             <div class="blog-item">
                 <div class="blog-img">
-                    <img src="{{asset('components/img/blog-3.jpg')}}" alt="Blog">
+                    <img src="{{asset('components/img/paragua.jfif')}}" alt="Blog">
                 </div>
                 <div class="blog-content">
-                    <h2 class="blog-title">Lorem ipsum dolor sit amet</h2>
+                    <h2 class="blog-title"></h2>
                     <div class="blog-meta">
                         <i class="fa fa-list-alt"></i>
-                        <a href="">Category</a>
+                        <a href="">The requirements to obtain the ARRIVAL VISAS are:</a>
                         <i class="fa fa-calendar-alt"></i>
-                        <p>01-Jan-2045</p>
+                        <p>1. Valid passport.
+
+                            2. CASH payment of US $ 160.00 of the corresponding tariff.</p>
                     </div>
                     <div class="blog-text">
                         <p>
-                            Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum metus tortor. Lorem ipsum dolor sit amet elit. Neca pretim miura bitur facili ornare velit non vulpte liqum metus tortor
+                            The ARRIVAL VISAS of category Non-Resident Visa will be granted at the Silvio Pettirossi International Airport in Asunción, Paraguay. They will have a duration of ten (10) years.
                         </p>
                         <a class="btn" href="">Read More</a>
                     </div>
