@@ -34,7 +34,7 @@
 
 
 <!-- Carousel Start -->
-@include('layout.carousel')
+{{--@include('layout.carousel')--}}
 <!-- Carousel End -->
 
 <!-- Video Modal Start-->

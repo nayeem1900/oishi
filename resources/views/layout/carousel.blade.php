@@ -3,7 +3,7 @@
         <div class="owl-carousel">
             <div class="carousel-item">
                 <div class="carousel-img">
-                    <img src="{{asset('components/img/sl1.png')}}" alt="Image">
+                    <img src="{{asset('components/img/b6.jpeg')}}" alt="Image">
                 </div>
                 {{--<div class="carousel-text">
                     <h1></h1>
@@ -18,7 +18,7 @@
             </div>
             <div class="carousel-item">
                 <div class="carousel-img">
-                    <img src="{{asset('components/img/sl2.png')}}" alt="Image">
+                    <img src="{{asset('components/img/b2.jfif')}}" alt="Image">
                 </div>
                {{-- <div class="carousel-text">
                     <h1></h1>
@@ -33,7 +33,7 @@
             </div>
             <div class="carousel-item">
                 <div class="carousel-img">
-                    <img src="{{asset('components/img/sl3.png')}}" alt="Image">
+                    <img src="{{asset('components/img/b3.jfif')}}" alt="Image">
                 </div>
                {{-- <div class="carousel-text">
                     <h1></h1>
