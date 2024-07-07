@@ -19,7 +19,7 @@
                 </div>
                 <div class="blog-item">
                     <div class="blog-img">
-                        <img src="{{asset('components/img/poland.jfif')}}" alt="Blog">
+                        <img src="{{asset('components/img/poland.png')}}" alt="Blog">
                     </div>
                     <p> </p>
                 </div>
